@@ -82,7 +82,7 @@ Vercel account (optional for deployment)
 
 Installation
 # Clone the repo
-git clone https://github.com/YourUsername/medme.git
+git clone https://github.com/gaurii0709/MedMe-Doctor-s-Appointment-Platform.git
 cd medme
 
 # Install dependencies
