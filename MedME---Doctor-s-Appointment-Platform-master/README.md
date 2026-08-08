@@ -111,5 +111,5 @@ Mobile app version for iOS and Android.
 
 📌 License
 
-This project is licensed under the MIT License
- © 2025 Harsh Singh.
+
+This project is licensed under the MIT License. See the LICENSE file for details.
